@@ -1,6 +1,3 @@
-spring:
-  profiles:
-    active: docker
 ---   
 spring:
   profiles: docker    
