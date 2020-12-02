@@ -1,3 +1,6 @@
+spring:
+  profiles:
+    active: docker
 eureka:
   server:
     enable-self-preservation: false
